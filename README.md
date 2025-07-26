@@ -11,7 +11,7 @@ CS50 Python is an excellent introduction to programming with Python offered by H
   • File handling and libraries
   And many other essential programming concepts
 
-## My final project : 
+## My final project
 You can view my final project at the following link:
 <https://github.com/Alireza-njt/Connect-Four>
 
